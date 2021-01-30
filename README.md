@@ -61,7 +61,7 @@ log in, and enjoy!
 Download the install script at [install-ubuntu.sh](https://raw.githubusercontent.com/morph1904/Tyger2/master/install/install-ubuntu.sh) and run it as sudo
 ```
 cd /tmp  
-wget https://raw.githubusercontent.com/morph1904/Tyger2/master/install/install-ubuntu.sh  
+wget https://raw.githubusercontent.com/rickevans86/Tyger2/master/install/install-ubuntu.sh  
 chmod +x install-ubuntu.sh
 sudo ./install-ubuntu.sh  
 
