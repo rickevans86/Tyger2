@@ -46,7 +46,7 @@ printf "${GREEN}Cloning repository...${NORMAL}\n"
 mkdir $APPS_DIR
 cd $APPS_DIR
 
-git clone https://github.com/morph1904/Tyger2.git
+git clone https://github.com/rickevans86/Tyger2.git
 
 mkdir -p $TYGER_DATA \
          $TYGER_DATA/logs
